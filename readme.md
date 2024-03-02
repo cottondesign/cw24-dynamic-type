@@ -2,7 +2,7 @@
 
 This library creates dynamic generative headers throughout the Creative Week website.
 
-[VIEW DEMO →](https://cw24-library.netlify.app/)
+[VIEW DEMO →](https://cw24-library.netlify.app/demo)
 
 ##### Dependencies
 This code requires linking to [p5.js](https://p5js.org/). At the time of publication this library uses version `1.9.0`.
