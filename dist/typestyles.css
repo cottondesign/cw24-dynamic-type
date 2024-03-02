@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Neue Haas Grotesk';
-    src: url('../fonts/NHaasGroteskDSPro-55Rg.ttf') format('truetype');
+    src: url('/fonts/NHaasGroteskDSPro-55Rg.ttf') format('truetype');
 }
 
 :root{
