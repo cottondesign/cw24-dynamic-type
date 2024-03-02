@@ -119,7 +119,7 @@ function createSketchForElement(element) {
       }
     
       sketch.preload = () => {
-        font = sketch.loadFont('/fonts/NHaasGroteskDSPro-55Rg.ttf');
+        font = sketch.loadFont('NHaasGroteskDSPro-55Rg.ttf');
       };
     
       sketch.setup = () => {
