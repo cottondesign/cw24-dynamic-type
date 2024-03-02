@@ -37,4 +37,4 @@ You can continue to add other attributes as necessary.
 ---
 ### Stylesheet
 
-Use the corresponding stylesheet for other recommended typographic styles.
+Use the corresponding stylesheets for canvas-related and typographic styles.
