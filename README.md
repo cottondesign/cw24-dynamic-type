@@ -35,6 +35,6 @@ You can continue to add other attributes as necessary.
 
 
 ---
-### Stylesheet
+### Styles
 
 Use the corresponding stylesheets for canvas-related and typographic styles.
